@@ -7,6 +7,7 @@ Repository for the FPL'26 submission titled *"The Lay of the Layers: Enabling He
 - **`vtr-9-modified`** — submodule containing the modified VTR-9 code.
 - **`static_vtr_binary`** — static build of the modified VTR-9 code.
 - **`data/`** — per-architecture results and summary files (see below).
+- **`architectures/`** — architecture XML files for the 3D FPGA architectures evaluated in the paper.
 
 ## Data Files
 
