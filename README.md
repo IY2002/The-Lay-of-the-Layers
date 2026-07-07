@@ -20,6 +20,6 @@ The `data/` folder contains the following:
 
 ## Note
 
-The benchmarks' BLIF, and netlist files will be released on Hugging Face upon acceptance. Combined, they total approximately 300 GB and therefore cannot be hosted on GitHub.
+The benchmarks' BLIF, and netlist files are released on Hugging Face. Combined, they total approximately 230 GB. They can be found here: [https://huggingface.co/datasets/IY2002/The-Lay-of-the-Layers](https://huggingface.co/datasets/IY2002/The-Lay-of-the-Layers)
 
 [![DOI](https://zenodo.org/badge/1200976505.svg)](https://doi.org/10.5281/zenodo.20335974)
